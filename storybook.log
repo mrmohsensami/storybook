@@ -1,0 +1,6 @@
+npm ERR! code FETCH_ERROR
+npm ERR! errno FETCH_ERROR
+npm ERR! invalid json response body at https://registry.npmjs.org/@storybook%2faddon-docs reason: Invalid response body while trying to fetch https://registry.npmjs.org/@storybook%2faddon-docs: aborted
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/mohsen/.npm/_logs/2023-09-21T09_21_19_386Z-debug-0.log
